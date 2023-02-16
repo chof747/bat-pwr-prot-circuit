@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|150115000|91270000|928bb0cc-42b4-4a93-a81f-8960ba85707c|2697d328-9566-4672-b78c-5f60f066e2e6"
+      ],
       "meta": {
         "version": 2
       },
@@ -381,6 +383,8 @@
         "name": "Power",
         "nets": [
           "+3V3",
+          "/Left",
+          "/Right",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
