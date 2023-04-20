@@ -20,7 +20,8 @@ Requires confirmation if this setup is working
 
 ## Revision History:
 
- - v1.0: Initial Version (filed for fabrication: 04.12.2022)
+ - **v1.0**: Initial Version (filed for fabrication: 04.12.2022, successfully assembled 15.02.2023)
+ - **v1.1**: First revision with seperated Bat+ and 3v3 line (filed for fabrication 19.04.2023)
 
 
 
