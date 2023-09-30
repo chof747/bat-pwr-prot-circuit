@@ -14,3 +14,4 @@ production/
 
 #Step files of platine
 *.step
+bom/ibom.html
